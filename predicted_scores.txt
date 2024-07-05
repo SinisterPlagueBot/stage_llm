@@ -1,0 +1,55 @@
+Test Example 1:
+Question: How much do your legs hurt right now?
+Answer: I feel a throbbing sensation in both legs, worse in the right.
+Predicted Score: 3.6047
+==================================================
+Test Example 2:
+Question: Describe the pain in your legs.
+Answer: The pain is like a dull ache, not too intense but persistent.
+Predicted Score: 2.5657
+==================================================
+Test Example 3:
+Question: Do you feel any discomfort in your legs?
+Answer: Yes, there's a mild throbbing in my left leg.
+Predicted Score: 2.7644
+==================================================
+Test Example 4:
+Question: What kind of pain are you experiencing?
+Answer: It's a sharp pain that radiates down my right leg.
+Predicted Score: 5.9902
+==================================================
+Test Example 5:
+Question: Rate the intensity of your leg pain on a scale of 1 to 10.
+Answer: It's about a 7, quite intense.
+Predicted Score: 4.6953
+==================================================
+Test Example 6:
+Question: How are your legs feeling today?
+Answer: They feel stiff and sore, especially after exercise.
+Predicted Score: 4.0119
+==================================================
+Test Example 7:
+Question: Are you able to walk comfortably?
+Answer: No, the pain makes walking difficult.
+Predicted Score: 3.9778
+==================================================
+Test Example 8:
+Question: Have you tried any pain relief methods?
+Answer: Yes, I've used ice packs which provide some relief.
+Predicted Score: 3.5919
+==================================================
+Test Example 9:
+Question: Is the pain constant or does it come and go?
+Answer: It comes and goes, but it's persistent.
+Predicted Score: 4.6775
+==================================================
+Test Example 10:
+Question: Does the pain affect your daily activities?
+Answer: Yes, it limits my ability to stand for long periods.
+Predicted Score: 5.5073
+==================================================
+Test Example 11:
+Question: When did you first notice the pain?
+Answer: It started a few days ago after a long hike.
+Predicted Score: 3.0373
+==================================================
